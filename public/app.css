@@ -206,14 +206,3 @@ h2 {
     margin-left: -100px;
     margin-bottom: -2em;
 }
-
-#log {
-    border-radius: 50%;
-    height: 50px;
-    width: 50px;
-    border: 2px solid black;
-    box-shadow: 2px 2px 5px #000000;
-    margin-left: -100px;
-    margin-bottom: -2em;
-    background-image: url("https://source.unsplash.com/rL6sOvctpo4");
-}
